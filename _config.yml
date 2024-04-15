@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Homeopathy4U.in"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "homeopathy4u.in"
+description              : &description "One stop 4 holistic healthcare - Leveraging AI for homeopathy"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "One stop 4 holistic healthcare - Leveraging AI for homeopathy"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Consult for complete Care!"
+  location         : "India"
+  employer         : "Clinic and Online"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "homeopathy4u.in@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
